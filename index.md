@@ -17,5 +17,8 @@ var myVar = "Hello, world!";
 ## The list
 - [ ] Complete the skills course communicate using markdown
 - [ ] Keep building my GitHub Pages website
-- [ ] ????
+- [x] ????
 - [ ] Profit!
+
+# Step 5 Merge pull requests
+## Merging..
